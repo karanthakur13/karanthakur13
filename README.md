@@ -6,7 +6,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanthakur13&show_icons=true&theme=dark)
+## 📊 GitHub Stats
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanthakur13&layout=compact&theme=dark)
+
 
 ## 🔭 Projects
 
