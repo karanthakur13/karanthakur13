@@ -5,9 +5,7 @@
 👋 Hi there! I'm Karan, a passionate computer engineering student with a knack for crafting innovative software solutions. I believe in using technology to drive positive change and am committed to continuous learning and improvement.
 
 ## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanthakur13&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanthakur13&layout=compact&theme=dark)
 
