@@ -24,7 +24,7 @@
 
 ## 🌐 Connect
 
-Feel free to explore my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/karan-singh-thakur-34735020b) or check out my [portfolio website](https://yourportfolio.com) to learn more about my journey and accomplishments.
+Feel free to explore my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/karan-singh-thakur-34735020b)
 
 Let's collaborate and build something incredible together! 👨‍💻🌟
 
